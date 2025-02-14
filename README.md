@@ -32,7 +32,7 @@ Hello, I am Alan, I am 19 years old, and I am from Santa Catarina / Brazil. I am
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -81,7 +81,7 @@ Hello, I am Alan, I am 19 years old, and I am from Santa Catarina / Brazil. I am
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 

@@ -20,12 +20,14 @@ Hello, I am Alan, I am 19 years old, and I am from Santa Catarina / Brazil. I am
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/AlanNascimento222?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-      <a src="https://www.linkedin.com/in/alan-nascimento-da-silva-8a1620323/">
+    </a>
+      <a href="https://www.linkedin.com/in/alan-nascimento-da-silva-8a1620323/">
         <img
           alt="LinkedIn"
           title="follow me on LinkedIn"
           src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
           />
+      </a>
 </p>
 
 ---
@@ -88,13 +90,6 @@ Hello, I am Alan, I am 19 years old, and I am from Santa Catarina / Brazil. I am
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AlanNascimento222&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanNascimento222&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>

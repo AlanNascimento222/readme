@@ -1,6 +1,6 @@
 
 
-# 👩🏻‍💻 Alan Nascimento
+# 👨🏻‍💻 Alan Nascimento
 
 **`Student programmer`**
 

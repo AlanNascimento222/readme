@@ -2,7 +2,7 @@
 
 # 👨🏻‍💻 Alan Nascimento
 
-**`Student programmer`**
+**`Dev FullStack`**
 
 Hello, I am Alan, I am 19 years old, and I am from Santa Catarina / Brazil. I am studying Systems Analysis and Development at SENAI. I have been passionate about technology since I was a child. See more on my LinkedIn.
 

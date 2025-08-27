@@ -34,9 +34,9 @@ Hello, I am Alan, I am 19 years old, and I am from Santa Catarina / Brazil. I am
 
 ### 🤖 Languages and Technologies
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,react,js,figma" />
   </a>
 </p>
 

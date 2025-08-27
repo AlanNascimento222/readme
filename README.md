@@ -2,7 +2,7 @@
 
 # 👨🏻‍💻 Alan Nascimento
 
-**`Dev Front-End`**
+**`Dev Full-Stack`**
 
 Hello, I am Alan, I am 19 years old, and I am from Santa Catarina / Brazil. I am studying Systems Analysis and Development at SENAI. I have been passionate about technology since I was a child. See more on my LinkedIn.
 
@@ -66,6 +66,15 @@ Hello, I am Alan, I am 19 years old, and I am from Santa Catarina / Brazil. I am
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="nodeJS" 
+    title="NodeJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://skillicons.dev/_nuxt/img/example-dark.22a5ea0.png" 
 />
 
 <img 
